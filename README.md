@@ -1,2 +1,8 @@
 # My-Checkpoint
-A slightly functional 3 page website I created with the little knowledge I have gained so far.
+A one page menu I created for my checkpoint at GoMyCode
+I used the following;
+. Local links
+. the <hr> tag
+. picture
+. footer
+. google fonts
